@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/bt1"
+            android:text="@string/Click_me"
+            android:onClick="showLayout"
+            android:background="@drawable/confuse"
+            />
+
+    </RelativeLayout>
+
+
+
+<!-- From: file:/C:/Users/Saiful/AndroidStudioProjects/TourismApp2/app/src/main/res/layout/activity_main.xml -->

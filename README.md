@@ -1,0 +1,1 @@
+Tourism App is an Android Project where Informations like weather update, distance between host palce to tour place, time needs to go, historical background, famous for something etc of six most beautiful places of our motherland are shown which is implemented by Java code.

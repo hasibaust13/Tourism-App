@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="30sp"
+    tools:context=".MainActivity">
+    <RelativeLayout
+        android:layout_width="400sp"
+        android:layout_height="500sp"
+        android:background="@drawable/mapbg"
+        android:gravity="center">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <Button
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:id="@+id/button_R"
+            android:layout_marginTop="35sp"
+            android:layout_marginLeft="82sp"
+            android:background="@android:color/transparent"/>
+
+
+
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_BO"
+                android:layout_marginTop="100sp"
+                android:layout_marginLeft="84sp"
+                android:background="@android:color/transparent"/>
+         
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_RAJ"
+                android:layout_marginLeft="20sp"
+                android:layout_marginTop="132sp"
+                android:background="@android:color/transparent"/>
+            
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_B"
+                android:layout_marginLeft="170sp"
+                android:layout_marginTop="275sp"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_M"
+                android:layout_marginTop="113sp"
+                android:layout_marginLeft="160sp"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_JES"
+                android:layout_marginTop="238sp"
+                android:layout_marginLeft="75sp"
+                android:background="@android:color/transparent"/>
+            
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_KHU"
+                android:layout_marginTop="293sp"
+                android:layout_marginLeft="94sp"
+                android:background="@android:color/transparent"/>
+            
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_DHA"
+                android:layout_marginTop="191sp"
+                android:layout_marginLeft="160sp"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_COM"
+                android:layout_marginTop="235sp"
+                android:layout_marginLeft="225sp"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_CHI"
+                android:layout_marginTop="313sp"
+                android:layout_marginLeft="279sp"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_width="@dimen/button_width"
+                android:layout_height="@dimen/button_height"
+                android:id="@+id/button_SYL"
+                android:layout_marginTop="107sp"
+                android:layout_marginLeft="269sp"
+                android:background="@android:color/transparent"/>
+            
+
+        </RelativeLayout>
+
+     </LinearLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Saiful/AndroidStudioProjects/TourismApp2/app/src/main/res/layout/custom_map.xml -->

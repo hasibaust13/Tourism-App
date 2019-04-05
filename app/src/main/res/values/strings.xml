@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TourismApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Click_me">Click Anywhere to continue..</string>
+</resources>
